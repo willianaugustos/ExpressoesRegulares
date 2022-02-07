@@ -1,5 +1,5 @@
 # ExpressoesRegulares
-Repositorio com exemplos de uso de expresões regulares
+Repositorio com exemplos de uso de expressões regulares
 
 Navegue entre as pastas para visualizar o código de exemplo.
 
