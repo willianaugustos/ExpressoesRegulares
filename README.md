@@ -1,9 +1,9 @@
 # ExpressoesRegulares
 Repositorio com exemplos de uso de expresões regulares
 
-Neste exemplo apresento uma forma bem simplista de mascarar o CPF, considerando um cenário bem restrito. Para entender melhor o processo usado aqui, veja o artigo:
+Navegue entre as pastas para visualizar o código de exemplo.
 
-Para executar o código, na janela do terminal, utilize o comando:
+Em geral os programas foram escritos para rodar no VS Code. Para executar o código, na janela do terminal, utilize o comando:
 ```
 dotnet run
 ```
